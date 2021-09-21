@@ -25,6 +25,8 @@ It also allows you to play some other fun little games like tictactoe and guess 
   Eg: `oy covid region Delhi`
  
 ### Game commands  
-`oy tictactoe <mention_other_player>` - Play tictactoe with someone. Eg: `oy tictactoe @player2`  
-`oy guess` - Play the guess game where you guess a number between one and ten.
+`oy tictactoe <mention_other_player>` - Play tictactoe with someone. Eg: `oy tictactoe @player2`    
+
+`oy guess` - Play the guess game where you guess a number between one and ten.  
+
 `oy guess all` - Play the same guess game but everyone else plays together. Player who guesses the right number first wins.
